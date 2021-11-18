@@ -1,0 +1,159 @@
+*{
+    list-style: none;
+    padding: 0;
+}
+header{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    height: 10vh;
+    top:0;
+    left: 0;
+    padding: 0;
+    background-color: #23211f;
+}
+header img{
+    top:10px;
+    border-radius: 10px;
+    height: 40px;
+}
+nav img{
+    height: 80vh;
+    position: absolute;
+    top:100px;
+    left: 20vh;
+    
+}
+#watch{
+    position: absolute;
+    color:white;
+    top:42vh;
+    left:50vh;
+    transition: 0s;
+    font-size: 40px;
+}
+#watch2{
+    color: white;
+    pointer-events: none;
+    transition: none;
+}
+#imageheart{
+    top:45vh;
+    left: 55vh;
+    height: 10vh;
+    position: absolute;
+}
+nav h4{
+    font-size: 50px;
+    position:absolute;
+    top:10vh;
+    left:100vh;
+    font-family: Montserrat;
+    padding-top: 30px;
+}
+nav p{
+    position:absolute;
+    top:30vh;
+    left: 101vh;
+    font-family: Source Sans Pro;
+    font-size: 25px;
+	margin-bottom:10vh;
+}
+samp h4{
+    padding-top: 10vh;
+    font-size: 25px;
+    position: absolute;
+    top:35vh;
+    left: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#Black{
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 55vh;
+    left: 100vh;
+    background-color: #23211f;
+    border-radius: 5px;
+}
+#Blue{
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 55vh;
+    left: 110vh;
+    background-color: #565681;
+    border-radius: 5px;
+}
+#Pink{
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 55vh;
+    left: 120vh;
+    background-color: #e9c7be;
+    border-radius: 5px;
+}
+#Purple{
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 55vh;
+    left: 130vh;
+    background-color: #8a5362;
+    border-radius: 5px;
+}
+#Red{
+    border: 0px;
+    height: 30px;
+    width: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 55vh;
+    left: 130vh;
+    background-color: #ca3d22;
+    border-radius: 5px;
+}
+div{
+    position: absolute;
+    top: 60vh;
+    left: 100vh;
+}
+div h4{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div button{
+    margin: 5px;
+    padding: 5px;
+    height: 100x;
+    border: none;
+    background: rgb(182, 175, 175);
+    font-size: 20px;
+    border-radius: 5px;
+}
+#buy{
+    position: absolute;
+    top: 20vh;
+    left: 0vh;
+    font-size: 25px;
+    width: 150px;
+    padding: 15px;
+    background: rgb(235, 138, 47);
+}
+
+div ul{
+    list-style: none;
+    direction: none;
+    display: flex;
+}
