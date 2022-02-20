@@ -23,7 +23,7 @@ function bluebtn(){
 blue.onclick = bluebtn;
 
 function pinkbtn(){
-    image.src = "img/pink.png"
+    image.src = "img/Pink.png"
 }
 pink.onclick = pinkbtn;
 
